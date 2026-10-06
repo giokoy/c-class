@@ -1,0 +1,14 @@
+C:\Users\hangm\Desktop\Javidk\Ejercicios_CS\bin\Debug\net9.0\Ejercicios_CS.exe
+C:\Users\hangm\Desktop\Javidk\Ejercicios_CS\bin\Debug\net9.0\Ejercicios_CS.deps.json
+C:\Users\hangm\Desktop\Javidk\Ejercicios_CS\bin\Debug\net9.0\Ejercicios_CS.runtimeconfig.json
+C:\Users\hangm\Desktop\Javidk\Ejercicios_CS\bin\Debug\net9.0\Ejercicios_CS.dll
+C:\Users\hangm\Desktop\Javidk\Ejercicios_CS\bin\Debug\net9.0\Ejercicios_CS.pdb
+C:\Users\hangm\Desktop\Javidk\Ejercicios_CS\obj\Debug\net9.0\Ejercicios_CS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hangm\Desktop\Javidk\Ejercicios_CS\obj\Debug\net9.0\Ejercicios_CS.AssemblyInfoInputs.cache
+C:\Users\hangm\Desktop\Javidk\Ejercicios_CS\obj\Debug\net9.0\Ejercicios_CS.AssemblyInfo.cs
+C:\Users\hangm\Desktop\Javidk\Ejercicios_CS\obj\Debug\net9.0\Ejercicios_CS.csproj.CoreCompileInputs.cache
+C:\Users\hangm\Desktop\Javidk\Ejercicios_CS\obj\Debug\net9.0\Ejercicios_CS.dll
+C:\Users\hangm\Desktop\Javidk\Ejercicios_CS\obj\Debug\net9.0\refint\Ejercicios_CS.dll
+C:\Users\hangm\Desktop\Javidk\Ejercicios_CS\obj\Debug\net9.0\Ejercicios_CS.pdb
+C:\Users\hangm\Desktop\Javidk\Ejercicios_CS\obj\Debug\net9.0\Ejercicios_CS.genruntimeconfig.cache
+C:\Users\hangm\Desktop\Javidk\Ejercicios_CS\obj\Debug\net9.0\ref\Ejercicios_CS.dll
